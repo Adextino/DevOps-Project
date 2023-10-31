@@ -2,6 +2,7 @@
 
 ## 'cd' commands
 
-cd command means change directory in Linux!
+cd commands means change directory
 
-[Alt text](<images/change D.JPG>)
+
+![Alt text](<images/cd command.PNG>)
