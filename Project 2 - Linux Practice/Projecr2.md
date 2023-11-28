@@ -1,1 +1,1 @@
-## Practicing Linux Commands
+# Practicing Linux Commands
