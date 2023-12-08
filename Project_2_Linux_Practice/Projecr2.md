@@ -1,6 +1,6 @@
 # Practicing Linux Commands
 
-## **File Manipulation**
+## File Manipulation
 
 1. sudo command
 
