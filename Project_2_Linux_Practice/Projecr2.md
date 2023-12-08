@@ -1,12 +1,12 @@
 # Practicing Linux Commands
 
-# **File Manipulation**
+## **File Manipulation**
 
 1. sudo command
 
     Upgrade of a Ubuntu Operating system build using Sudo command
 
-
+    ![Alt text](images/upgrade.PNG)
 
 2. pwd command
 
