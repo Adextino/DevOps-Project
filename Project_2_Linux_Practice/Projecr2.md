@@ -6,7 +6,7 @@
 
     Upgrade of a Ubuntu Operating system build using Sudo command
 
-    ![Alt text](images/upgrade.PNG)
+
 
 2. pwd command
 
