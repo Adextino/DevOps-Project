@@ -22,7 +22,25 @@ What is git? Git is a distributed version control system, which essentially solv
   1.  Inside the working directory, create a file index.txt
   2.  Write a text inside the file say, "GIT learning i quite interesting"
   3.  Add the changes to GIT staging area using; $git add .
-  4.  Commit the changes to GIT by running the command; $git commit -m "initial commit"
+  4.  Commit the changes to GIT by running the command; $git commit -m "initial commit", where -m is
+      used to provide the commit message.
 
       ![Alt text](images/gitcommit.PNG)
+
+## Working with branches
+
+Git Branch: This is used to develop a new feature of the application. The changes made in the branch is independent on what is available in the main copy.
+
+    ### Make a new branch by running the command, 
+    $git checkout -b newBranch
+
+    ### To list the branch, run the command below;
+    $git branch
+
+        ![Alt text](images/gitnewbranch_listing.PNG)
+
+    ### To switch back to the old, use the command, 
+    $git checkout main
+
+
 
